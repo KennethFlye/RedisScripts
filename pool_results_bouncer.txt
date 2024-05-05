@@ -1,0 +1,18 @@
+Run ID: 48a8b6e1-2fd1-4d1a-bebb-cd4c770c9de9
+Total Time: 190.32580883894116
+Average Time: 0.00019032580883894117
+Possible Writes Per Second: 5254.148168870923
+Amount of Pods: 10.0
+
+Run ID: 0444f7d2-5b65-4ba0-b26a-fcd0dc8cfd77
+Total Time: 193.81218489306048
+Average Time: 0.00019381218489306046
+Possible Writes Per Second: 5159.634315828847
+Amount of Pods: 40.0
+
+Run ID: c16ac1f1-76e8-4ab0-93ff-c145064f6d9e
+Total Time: 195.09729426214471
+Average Time: 0.0001950972942621447
+Possible Writes Per Second: 5125.647712245248
+Amount of Pods: 20.0
+
